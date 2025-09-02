@@ -1,0 +1,29 @@
+[
+  {
+    "firstname": "Alice",
+    "lastname": "Wang",
+    "fullname": "Alice Wang",
+    "email": "alice.wang@example.com",
+    "languages": ["English", "Chinese"],
+    "skills": ["python", "data analysis", "sql"],
+    "current_role": "Data Scientist"
+  },
+  {
+    "firstname": "Bob",
+    "lastname": "Chen",
+    "fullname": "Bob Chen",
+    "email": "bob.chen@example.com",
+    "languages": ["English"],
+    "skills": ["javascript", "react", "nodejs"],
+    "current_role": "Frontend Engineer"
+  },
+  {
+    "firstname": "Carol",
+    "lastname": "Li",
+    "fullname": "Carol Li",
+    "email": "carol.li@example.com",
+    "languages": ["English", "Mandarin"],
+    "skills": ["aws", "devops", "docker"],
+    "current_role": "DevOps Engineer"
+  }
+]
