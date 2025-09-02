@@ -17,7 +17,7 @@ In this lab, you are going to understand how to extend an agent made with Micros
 - How to integrate MCP servers with Copilot Studio agents
 
 *** 
-If you don't want to set up your own MCP server, you can use the provided mock server for testing purposes. and go to Step 2. <br/>
+If you don't want to set up your own MCP server, you can use the provided mock server for testing purposes. and go to [Step 2](#step-2-creating-a-new-agent-in-copilot-studio). <br/>
 https://hr-mcp-ci.ambitiousbush-7fa2fef0.eastasia.azurecontainerapps.io/mcp
 
 *** 
