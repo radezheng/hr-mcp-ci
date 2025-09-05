@@ -213,3 +213,10 @@ Well done! Your agent is fully functional and capable of consuming all the tools
 
 You have completed Lab  - Consuming an MCP server!
 
+## [Optional] UnDeploy MCP Server
+If you deployed the HR MCP Server and want to remove it, you can do so by:
+
+```bash
+cd hr-mcp-ci
+azd down
+```
